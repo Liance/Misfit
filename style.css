@@ -173,6 +173,8 @@ p.choice {
 
 p.choice a {
     font-size: 15pt;
+    animation: opacity 6s ease-in-out 1;
+    opacity: 1;
 }
 
 /* Built in class if you want to write:
