@@ -6,7 +6,7 @@ JOHNNY CRYPTO: Our little friend's been rejected by the swarm.
 
 * INGRID: What's wrong?
 
--JOHNNY CRYPTO: With our drone? Nothing. MSF's parameters are probably just incompatible with the swarms.
+-JOHNNY CRYPTO: With our drone? Nothing. MSF's parameters are probably just incompatible with the swarms'.
 
 *INGRID: But it looks exactly the same as them.
 
