@@ -148,11 +148,26 @@ img {
 p.choice {
     text-align: center;
     line-height: 1.7em;
+    animation: opacity 6s ease-in-out 1;
+    opacity: 1;
+}
+@keyframes opacity {
+  0% {
+    opacity: .66;
+  }
+
+  50% {
+    opacity: .66;
+  }
+
+  100% {
+    opacity: 1;
+  }
 }
 
 /* first choice */
 :not(.choice) + .choice {
-    padding-top: 1em; 
+    padding-top: 1em;
 }
 
 
