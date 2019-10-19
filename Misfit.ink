@@ -1,4 +1,4 @@
-<i>Drone MSF-220 is engulfed by the swarm for what feels like an eternity. But eventually it floats back to the jeep, external communication fields a washed-out periwinkle, the color of dejection.</i>
+<i>Drone MSF-220 is engulfed by the swarm for what feels like an eternity. But it eventually detaches from the machine group and floats back to the jeep alone, external communication fields a washed-out periwinkle, the color of dejection.</i>
 
 # THEME: DARK
 
