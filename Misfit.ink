@@ -2,7 +2,7 @@
 
 # THEME: DARK
 
-JOHNNY CRYPTO: Our little friend's been rejected by the swarm. I don't think they'll take it.
+JOHNNY CRYPTO: Our little friend's been rejected by the swarm.
 
 * INGRID: What's wrong?
 
