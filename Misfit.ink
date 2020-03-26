@@ -28,21 +28,23 @@ JOHNNY CRYPTO: Our little friend's been rejected by the swarm.
 
 *INGRID: Are you adjusting them to fit this swarm?
 
--JOHNNY CRYPTO: Nah, that'd be real cruel. Compatibility runs real deep with drones, adjusting her for proper acceptance would require rewriting MSF's personality completely.
+-JOHNNY CRYPTO: Nah, that'd be real mean of me. Evil, even. Compatibility runs real deep with drones, adjusting her for proper acceptance would require rewriting MSF's personality completely.
 
 <i>(He falls silent for a moment as he squints at the array screens and adjusts something.)</i>
 
-JOHNNY CRYPTO: I'm just making a few temporary changes, making our girl seem like REAL bad news to the swarm.
+JOHNNY CRYPTO: I'm just making a few temporary changes, making our girl seem like REAL bad news to the swarm. The swarm equivalent of an axe murderer.
 
-*INGRID: That's a little cruel, unless - oh, I see why now.
+*INGRID: That's a little cruel, unless[...]- oh, I see why now.
 
 -<i>(Stragglers at the edge of the swarm are inching closer to MSF-220 in its dock, emitting curious clicks and whistles that sound almost like machine dolphin-call.)</i>
 
-JOHNNY CRYPTO: Yep. Machines. Too nice.
+JOHNNY CRYPTO: Yep. Machines. Too nice by far.
 
-*INGRID: They'd try and integrate her anyway, even if it meant they'd probably all die.
+*INGRID: I get it. They're going to try and integrate her anyway, even if it means they're probably all going die because of it.
 
--JOHNNY CRYPTO: Even if we left, they'd follow her across entire west coast to try and integrate her, if they needed to. Even if it was as high as an 80%, 90% chance of mass swarm die-off. I'm telling you, group-minds don't think like us. Letting another individual be lonely is worse than death to them.
+-JOHNNY CRYPTO: Even if we left, they'd follow MSF-220 here across entire west coast to try and integrate her, if that's what it took. Even if it meant risking an 80%, 90% chance of mass swarm die-off. I'm telling you, group-minds don't think like us. 
+
+Leaving another individual to be lonely - most swarms would rather die than accept that. Pathological empaths, is what they are.
 
 *INGRID: That's...really sweet. Would they really do that? Just for our misfit drone?
 
@@ -50,11 +52,13 @@ JOHNNY CRYPTO: Yep. Machines. Too nice.
 
 *INGRID: I see why. Still, it's sad...
 
-<i>(The calibration dock releases a satisfying ping and releases the drone, which is now an angry mauve. The stragglers that were approaching it immediately slink away, MSF-220 whirls and clicks in confusion.)</i>
+<i>(The calibration dock releases a satisfying ping and releases the drone, which is now an angry mauve. The stragglers that were approaching it immediately slink away, MSF-220 whirls and clicks in dismay.)</i>
 
 -JOHNNY CRYPTO: <i>(Sighing)</i> Well, there's four hundred registered swarms in the Pacific North-West alone, and we've only seen four so far. We'll find a home for this little misfit.
 
-*<i>(You open the door to the car and usher the drone inside. Its movements seem morose, resigned. You have flashbacks to when you were always the last kid picked for teams back in highschool gym class, forever the odd one out.)</i>
+*<i>(You open the door to the car and usher the drone inside.)</i>
+
+<i>Its movements seem morose, resigned. You have flashbacks to when you were always the last kid picked for teams back in highschool gym class, forever the odd one out.)</i>
 -
 
 *INGRID: You promise?
