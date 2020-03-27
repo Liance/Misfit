@@ -1,6 +1,7 @@
+# THEME: DARK
+
 <i>Drone MSF-220 is engulfed by the swarm for what feels like an eternity. But it eventually detaches from the machine group and floats back to the jeep alone, external communication fields a washed-out periwinkle, the color of dejection.</i>
 
-# THEME: DARK
 
 JOHNNY CRYPTO: Our little friend's been rejected by the swarm.
 
@@ -58,7 +59,7 @@ Leaving another individual to be lonely - most swarms would rather die than acce
 
 *<i>(You open the door to the car and usher the drone inside.)</i>
 
-<i>Its movements seem morose, resigned. You have flashbacks to when you were always the last kid picked for teams back in highschool gym class, forever the odd one out.)</i>
+<i>(Its movements seem morose, resigned. You have flashbacks to when you were always the last kid picked for teams back in highschool gym class, forever the odd one out.)</i>
 -
 
 *INGRID: You promise?
@@ -67,6 +68,20 @@ Leaving another individual to be lonely - most swarms would rather die than acce
 
 -JOHNNY CRYPTO: Yeah. I promise.
 
+-(drive)
+*(hug)<i>(You give MSF-220 a hug.)
+
+    <i>(Or at least you try to hug them, it's about the the size of a big boxy labrador and their fields make them even more slippery and elusive. But once MSF-220 realises what you're trying to do, it pushes into your arms and clicks contentedly.)</i>
+
+    <i>(They smell oddly sweet and strangely familiar, like freshly unwrapped plastic mixed in with a summer day's rain.)</i>
+
+    <i>(Johnny shakes his head and tries to hide a grin, but declines to comment on what must clearly be the ridiculous sight of two wee big dafties hugging it out next to him.)</i>
+->drive
+*<i>(You drive on.)
+
+{hug: JOHNNY CRYPTO: <i>(smiling gently) </i>Alright, you big softies, let's get going. Pacific North-West isn't going to explore itself.}
+
+<i>Let's find our little misfit a home.
 //35 minutes intiial draft
 
 //53 minutes tweaks.
